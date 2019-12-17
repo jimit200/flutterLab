@@ -113,7 +113,7 @@ class MyApp extends StatelessWidget {
         context,
         MaterialPageRoute(builder: (context) => SecondRoute(globals.fav)),
       );
-      print(result[0]+result[1]);
+      // print(result[0]+result[1]);
 
     }
 
